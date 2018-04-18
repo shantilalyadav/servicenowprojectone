@@ -3,5 +3,6 @@
     <element extends="task" label="insurance" max_length="40" name="x_12662_kishorbhai_insurance" sizeclass="1" type="collection">
         <element label="Address" max_length="40" name="address" type="string"/>
         <element display="true" label="Name" max_length="32" name="name" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Testone" max_length="40" name="testone" type="string"/>
     </element>
 </database>
