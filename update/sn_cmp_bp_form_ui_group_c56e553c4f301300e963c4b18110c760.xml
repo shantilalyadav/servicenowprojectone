@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sn_cmp_bp_form_ui_group">
+    <sn_cmp_bp_form_ui_group action="INSERT_OR_UPDATE">
+        <bp_cat_form_behavior display_value="SANCHAY_TOMCAT Cleanup">a65e913c4f301300e963c4b18110c7b4</bp_cat_form_behavior>
+        <display_order>1</display_order>
+        <name>Deprovision</name>
+        <sys_class_name>sn_cmp_bp_form_ui_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-09 19:59:56</sys_created_on>
+        <sys_id>c56e553c4f301300e963c4b18110c760</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Deprovision</sys_name>
+        <sys_package display_value="KISHORBHAI" source="x_12662_kishorbhai">c97828ff4f601300e963c4b18110c7f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KISHORBHAI">c97828ff4f601300e963c4b18110c7f2</sys_scope>
+        <sys_update_name>sn_cmp_bp_form_ui_group_c56e553c4f301300e963c4b18110c760</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-09 19:59:56</sys_updated_on>
+    </sn_cmp_bp_form_ui_group>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sn_cmp_bp_blueprint">
+    <sn_cmp_bp_blueprint action="INSERT_OR_UPDATE">
+        <category display_value="Database">81c79ea6930b22004a9032bfa67ffbcc</category>
+        <cloud_service/>
+        <description>This is for testing database</description>
+        <layer/>
+        <name>SANCHAY_TOMCAT</name>
+        <sm_checkpoint_id/>
+        <source_sm_checkpoint_id/>
+        <status>2</status>
+        <svc_layer display_value="SANCHAY_TOMCAT">831e19384f301300e963c4b18110c7c2</svc_layer>
+        <sys_class_name>sn_cmp_bp_blueprint</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-09 19:58:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>0b1e19384f301300e963c4b18110c7c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SANCHAY_TOMCAT</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="KISHORBHAI" source="x_12662_kishorbhai">c97828ff4f601300e963c4b18110c7f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KISHORBHAI">c97828ff4f601300e963c4b18110c7f2</sys_scope>
+        <sys_update_name>sn_cmp_bp_blueprint_0b1e19384f301300e963c4b18110c7c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-09 19:58:42</sys_updated_on>
+        <tlr display_value="SANCHAY_TOMCAT Blueprint Resource">471e1df84f301300e963c4b18110c78b</tlr>
+    </sn_cmp_bp_blueprint>
+</record_update>

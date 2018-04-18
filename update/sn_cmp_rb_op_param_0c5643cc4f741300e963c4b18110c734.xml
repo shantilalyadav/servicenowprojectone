@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sn_cmp_rb_op_param">
+    <sn_cmp_rb_op_param action="INSERT_OR_UPDATE">
+        <interface display_value="AWS_VERTUAL_MACHINE Resource Interface">574603cc4f741300e963c4b18110c779</interface>
+        <name>ScheduleTimeZone</name>
+        <operation display_value="Provision">534603cc4f741300e963c4b18110c783</operation>
+        <order>77</order>
+        <sys_class_name>sn_cmp_rb_op_param</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-07 19:38:32</sys_created_on>
+        <sys_id>0c5643cc4f741300e963c4b18110c734</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ScheduleTimeZone</sys_name>
+        <sys_package display_value="KISHORBHAI" source="x_12662_kishorbhai">c97828ff4f601300e963c4b18110c7f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KISHORBHAI">c97828ff4f601300e963c4b18110c7f2</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_param_0c5643cc4f741300e963c4b18110c734</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-07 19:38:32</sys_updated_on>
+        <type>1</type>
+    </sn_cmp_rb_op_param>
+</record_update>

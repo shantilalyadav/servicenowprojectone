@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sn_cmp_bp_event">
+    <sn_cmp_bp_event action="INSERT_OR_UPDATE">
+        <field_name>FormLoad</field_name>
+        <form_behavior display_value="SANCHAY_TOMCAT [1] Cleanup">9a8e593c4f301300e963c4b18110c77f</form_behavior>
+        <sys_class_name>sn_cmp_bp_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-09 20:00:43</sys_created_on>
+        <sys_id>289e1d3c4f301300e963c4b18110c757</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FormLoad</sys_name>
+        <sys_package display_value="KISHORBHAI" source="x_12662_kishorbhai">c97828ff4f601300e963c4b18110c7f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KISHORBHAI">c97828ff4f601300e963c4b18110c7f2</sys_scope>
+        <sys_update_name>sn_cmp_bp_event_289e1d3c4f301300e963c4b18110c757</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-09 20:00:43</sys_updated_on>
+        <type>FormLoad</type>
+    </sn_cmp_bp_event>
+</record_update>

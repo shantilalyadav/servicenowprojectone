@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sn_cmp_bp_osprofile_mapping">
+    <sn_cmp_bp_osprofile_mapping action="INSERT_OR_UPDATE">
+        <blueprint display_value="ARNAB_VMWARE">91faaab64fa05300e963c4b18110c7a7</blueprint>
+        <cloud_script display_value="FetchStaticScript789">38b0dd270b21320021cd05ae37673a8d</cloud_script>
+        <is_active>false</is_active>
+        <name/>
+        <os_profile display_value="ados">24838c2c4fb05300e963c4b18110c7be</os_profile>
+        <resource_alias/>
+        <sys_class_name>sn_cmp_bp_osprofile_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-08 18:49:38</sys_created_on>
+        <sys_id>88a48cac4fb05300e963c4b18110c732</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="KISHORBHAI" source="x_12662_kishorbhai">c97828ff4f601300e963c4b18110c7f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KISHORBHAI">c97828ff4f601300e963c4b18110c7f2</sys_scope>
+        <sys_update_name>sn_cmp_bp_osprofile_mapping_88a48cac4fb05300e963c4b18110c732</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-08 18:49:38</sys_updated_on>
+    </sn_cmp_bp_osprofile_mapping>
+</record_update>

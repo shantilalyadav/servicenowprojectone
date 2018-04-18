@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sn_cmp_bp_to_variableset">
+    <sn_cmp_bp_to_variableset action="INSERT_OR_UPDATE">
+        <blue_print display_value="SANCHAY_TOMCAT">0b1e19384f301300e963c4b18110c7c0</blue_print>
+        <sys_class_name>sn_cmp_bp_to_variableset</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-09 20:00:37</sys_created_on>
+        <sys_id>f28e993c4f301300e963c4b18110c780</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="KISHORBHAI" source="x_12662_kishorbhai">c97828ff4f601300e963c4b18110c7f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KISHORBHAI">c97828ff4f601300e963c4b18110c7f2</sys_scope>
+        <sys_update_name>sn_cmp_bp_to_variableset_f28e993c4f301300e963c4b18110c780</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-09 20:00:37</sys_updated_on>
+        <variable_set display_value="General Info">768e993c4f301300e963c4b18110c772</variable_set>
+    </sn_cmp_bp_to_variableset>
+</record_update>

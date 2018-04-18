@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sn_cmp_bp_global_prop">
+    <sn_cmp_bp_global_prop action="INSERT_OR_UPDATE">
+        <bp_stage_operation display_value="ModifySchedule">8fe711b44f301300e963c4b18110c778</bp_stage_operation>
+        <bp_stage_res_op_attr display_value="ScheduleTimeZone">b63815b44f301300e963c4b18110c7c8</bp_stage_res_op_attr>
+        <mandatory>true</mandatory>
+        <name>ScheduleTimeZone</name>
+        <order>174</order>
+        <resource_op_unique_id>9203</resource_op_unique_id>
+        <sys_class_name>sn_cmp_bp_global_prop</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-09 19:33:01</sys_created_on>
+        <sys_id>3e3815b44f301300e963c4b18110c7c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ScheduleTimeZone</sys_name>
+        <sys_package display_value="KISHORBHAI" source="x_12662_kishorbhai">c97828ff4f601300e963c4b18110c7f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KISHORBHAI">c97828ff4f601300e963c4b18110c7f2</sys_scope>
+        <sys_update_name>sn_cmp_bp_global_prop_3e3815b44f301300e963c4b18110c7c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-09 19:33:01</sys_updated_on>
+    </sn_cmp_bp_global_prop>
+</record_update>

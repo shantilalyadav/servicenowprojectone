@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sn_cmp_os_profile">
+    <sn_cmp_os_profile action="INSERT_OR_UPDATE">
+        <description>only for testing data</description>
+        <name>abhnay</name>
+        <sys_class_name>sn_cmp_os_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-08 19:37:48</sys_created_on>
+        <sys_id>17af0c684ff05300e963c4b18110c775</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>abhnay</sys_name>
+        <sys_package display_value="KISHORBHAI" source="x_12662_kishorbhai">c97828ff4f601300e963c4b18110c7f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KISHORBHAI">c97828ff4f601300e963c4b18110c7f2</sys_scope>
+        <sys_update_name>sn_cmp_os_profile_17af0c684ff05300e963c4b18110c775</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-08 19:37:48</sys_updated_on>
+    </sn_cmp_os_profile>
+</record_update>

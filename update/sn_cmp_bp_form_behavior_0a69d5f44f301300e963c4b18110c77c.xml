@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sn_cmp_bp_form_behavior">
+    <sn_cmp_bp_form_behavior action="INSERT_OR_UPDATE">
+        <alias_name>ILAM_VM [1] Deprovision</alias_name>
+        <bp_association display_value="ILAM_VM">9de71d744f301300e963c4b18110c7cd</bp_association>
+        <cat_item_association display_value="Deprovision [1]">df6919f44f301300e963c4b18110c788</cat_item_association>
+        <parent_form_behavior/>
+        <stage_operation display_value="Deprovision">0fe711b44f301300e963c4b18110c77f</stage_operation>
+        <sys_class_name>sn_cmp_bp_form_behavior</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-09 19:38:10</sys_created_on>
+        <sys_id>0a69d5f44f301300e963c4b18110c77c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ILAM_VM [1] Deprovision</sys_name>
+        <sys_package display_value="KISHORBHAI" source="x_12662_kishorbhai">c97828ff4f601300e963c4b18110c7f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="KISHORBHAI">c97828ff4f601300e963c4b18110c7f2</sys_scope>
+        <sys_update_name>sn_cmp_bp_form_behavior_0a69d5f44f301300e963c4b18110c77c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-09 19:38:15</sys_updated_on>
+        <ui_category/>
+    </sn_cmp_bp_form_behavior>
+</record_update>
